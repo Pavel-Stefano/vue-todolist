@@ -1,0 +1,11 @@
+.text-decoration-line-through{
+    text-decoration: line-through;
+}
+
+
+    .pointer {
+        cursor: pointer;
+    }
+body{
+    background-color: red;
+}
